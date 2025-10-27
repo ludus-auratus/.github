@@ -1,13 +1,13 @@
 # Ludus Auratus 🎮🐕
 
 ## 🚀 Sobre nós  
-A **Ludus Auratus** nasce com o propósito de fortalecer a indústria brasileira de jogos, valorizando a criatividade, diversidade cultural e a inovação tecnológica.  
+A **Ludus** nasce com o propósito de fortalecer a indústria brasileira de jogos, valorizando a criatividade, diversidade cultural e a inovação tecnológica.  
 
 Nosso símbolo é o **cachorro caramelo ciborgue**, um ícone do Brasil que remete à resiliência e à modernidade, representado em **Pixel Art**, a linguagem visual dos jogos independentes.  
 
 ---
 
-## 🌟 Valores (L.U.D.U.S.)
+## 🌟 Valores (L.U.D.U.S)
 - **L – Liberdade** → liberdade criativa para desenvolvedores e escolha para jogadores.  
 - **U – União** → união da comunidade gamer e dos criadores, fortalecendo o cenário indie.  
 - **D – Diversidade** → valorização de diferentes estilos, culturas e narrativas nos jogos.  
@@ -40,12 +40,12 @@ Criar um **ecossistema inclusivo e sustentável** para desenvolvedores e jogador
 ## 📘 Escopo do Projeto  
 A Ludus Auratus oferece:  
 
-- 📂 **Catálogo de jogos** publicados por usuários verificados.  
-- 🎮 **Seção de Game Jams** → espaço para criação, procura e inscrição em competições de desenvolvimento de jogos.  
+- 📂 **Catálogo de jogos** publicados por usuários verificados.   
 - 🌍 **Incentivo a causas sociais** com eventos e temas como *“protagonismo negro”* e *“consumo sustentável”*.  
 
 ### 🔮 Planejamento Futuro  
-- 🔎 Área dedicada à apresentação de desenvolvedores (artistas, sonoplastas, programadores).  
+- 🔎 Área dedicada à apresentação de desenvolvedores (artistas, sonoplastas, programadores).
+- 🎮 **Seção de Game Jams** → espaço para criação, procura e inscrição em competições de desenvolvimento de jogos. 
 - 💼 Disponibilização de vagas fixas ou temporárias para usuários verificados como empregadores.  
 
 ---
@@ -63,4 +63,4 @@ A Ludus Auratus oferece:
 
 ---
 
-✨ *Ludus Auratus – Onde a liberdade de criar encontra a força da união.*  
+✨ *Ludus – feito aqui, jogado por todos.*  
