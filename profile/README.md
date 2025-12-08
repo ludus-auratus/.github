@@ -77,7 +77,7 @@ A Ludus Auratus oferece:
       <a href="https://github.com/kayqpereira">
         <img src="https://github.com/kayqpereira.png" width="100px;" alt="Kayque Pereira"/>
         <br />
-        <sub><b>Eduardo Silva</b></sub>
+        <sub><b>Kayque Pereira</b></sub>
       </a>
       <br />
       <sub>Scrum Master & dev Frontend</sub>
