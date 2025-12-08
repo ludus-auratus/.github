@@ -57,9 +57,78 @@ A Ludus Auratus oferece:
 ---
 
 ## 🤝 Conecte-se  
-- 🌐 Site oficial *(em breve)*  
+- 🌐 Site oficial: [ludus-rho.vercel.app](https://ludus-rho.vercel.app/)
 - 💬 Discord da comunidade *(em breve)*  
 - 📧 Contato: ludus.auratus@gmail.com
+
+## Nossa equipe
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nicgalves">
+        <img src="https://github.com/nicgalves.png" width="100px;" alt="Nicole Gregorio"/>
+        <br />
+        <sub><b>Nicole Gregorio</b></sub>
+      </a>
+      <br />
+      <sub>Product Owner & Dev Fullstack</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kayqpereira">
+        <img src="https://github.com/kayqpereira.png" width="100px;" alt="Kayque Pereira"/>
+        <br />
+        <sub><b>Eduardo Silva</b></sub>
+      </a>
+      <br />
+      <sub>Scrum Master & dev Frontend</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gustavo-michel">
+        <img src="https://github.com/Gustavo-michel.png" width="100px;" alt="Gustavo Michel"/>
+        <br />
+        <sub><b>Gustavo Michel</b></sub>
+      </a>
+      <br />
+      <sub>Dev Backend & Banco de dados</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alagaG">
+        <img src="https://github.com/alagaG.png" width="100px;" alt="Matheus Caldas"/>
+        <br />
+        <sub><b>Matheus Caldas</b></sub>
+      </a>
+      <br />
+      <sub>Dev Fullstack & Financeiro</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pedroalvesdev1">
+        <img src="https://github.com/pedroalvesdev1.png" width="100px;" alt="Pedro Alves"/>
+        <br />
+        <sub><b>Pedro Alves</b></sub>
+      </a>
+      <br />
+      <sub>Dev Fullstack</sub>
+    </td>
+    <td align="center">
+      <a href=https://github.com/Quelqueirz">
+        <img src="https://github.com/Quelqueirz.png" width="100px;" alt="Raquel Queiroz"/>
+        <br />
+        <sub><b>Raquel Queiroz</b></sub>
+      </a>
+      <br />
+      <sub>dev Fullstack & UI/UX</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MizaellSantos">
+        <img src="https://github.com/MizaellSantos.png" width="100px;" alt="Mizael Santos"/>
+        <br />
+        <sub><b>Mizael Santos</b></sub>
+      </a>
+      <br />
+      <sub>Dev Fullstack & Marketing</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
